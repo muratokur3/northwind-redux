@@ -1,3 +1,13 @@
+npm star öncesinde:
+
+cd.. api
+
+## npm install -g json-server
+
+## json-server --watch db.json
+
+ardından diğer terminalden projeyi normal olarak aşağıdaki kurallara uygun ayaklandırabilirsiniz.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
