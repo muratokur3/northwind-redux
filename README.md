@@ -1,10 +1,10 @@
 npm star öncesinde:
 
-cd.. api
+### cd.. api
 
-## npm install -g json-server
+### npm install -g json-server
 
-## json-server --watch db.json
+### json-server --watch db.json
 
 ardından diğer terminalden projeyi normal olarak aşağıdaki kurallara uygun ayaklandırabilirsiniz.
 
